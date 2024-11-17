@@ -1,2 +1,1 @@
-Eric Chen
-eyc004@ucsd.edu
+Eric Chen, eyc004@ucsd.edu
