@@ -9,3 +9,6 @@ Similarly to the most interesting topic question, it would be cool to see how we
 
 **3. What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 Our project is going to be different from Quarter 2 naturally since the Quarter 1 Project was to replicate an existing guardrail. For Quarter 2, we will be zooming into more of an IoT context rather than harmful text inputs into chat bots. As a result, a major change is that we will be working in teams instead of individually. But another change is to connect it to some online platform rather than local so that it an be used but other people.
+
+**4. What other techniques would you be interested in using in your project?**
+I've explored a bit with using Guardrails AI and done some research on LlamaGuard and LLM Guard. Instead of using pre-trained ones, it would be cool to train our own guardrail based on data we find ourselves. Some other techniques I would like to try using are channeling constrant streams of data rather than selective rather than ad hoc requests like chat bots. It would be interesting to see how our guardrails can flag certain behavior and alert users rather than instantaneous feedback on an action. 
